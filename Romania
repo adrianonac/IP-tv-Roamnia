@@ -1,17 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="------|Romania|------" tvg-logo="" group-title="Romania",------|Romania|------
-http://a1xin.worldhell.club:8880/HE6M0002/dop7ywrk/31876
-#EXTINF:-1 tvg-id="" tvg-name="RO057:ACASA TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/RO/RO057ACASATV.png" group-title="Romania",ACASA TV
+#EXTINF:-1 tvg-id="" tvg-name="ACASA TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/RO/RO057ACASATV.png" group-title="Romania",ACASA TV
 http://a1xin.worldhell.club:8880/HE6M0002/dop7ywrk/31819
-#EXTINF:-1 tvg-id="" tvg-name="RO056:AGRO TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/RO/RO056AGROTV.png" group-title="Romania",AGRO TV
+#EXTINF:-1 tvg-id="" tvg-name="AGRO TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/RO/RO056AGROTV.png" group-title="Romania",AGRO TV
 http://a1xin.worldhell.club:8880/HE6M0002/dop7ywrk/31820
-#EXTINF:-1 tvg-id="" tvg-name="RO064:Agro TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/RO/RO064AgroTV.png" group-title="Romania",Agro TV
+#EXTINF:-1 tvg-id="" tvg-name="Agro TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/RO/RO064AgroTV.png" group-title="Romania",Agro TV
 http://a1xin.worldhell.club:8880/HE6M0002/dop7ywrk/31812
-#EXTINF:-1 tvg-id="" tvg-name="RO061:Alfa Omega" tvg-logo="http://www.tvboxgroup.com/iptv/logo/RO/RO061AlfaOmega.png" group-title="Romania",Alfa Omega
+#EXTINF:-1 tvg-id="" tvg-name=RO061:Alfa Omega" tvg-logo="http://www.tvboxgroup.com/iptv/logo/RO/RO061AlfaOmega.png" group-title="Romania",Alfa Omega
 http://a1xin.worldhell.club:8880/HE6M0002/dop7ywrk/31815
-#EXTINF:-1 tvg-id="" tvg-name="RO065:AMC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/RO/RO065AMC.png" group-title="Romania",RO065:AMC
+#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/RO/RO065AMC.png" group-title="Romania",RO065:AMC
 http://a1xin.worldhell.club:8880/HE6M0002/dop7ywrk/31811
-#EXTINF:-1 tvg-id="" tvg-name="RO066:ANIMAL PLANET HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/RO/RO066ANIMALPLANETHD.png" group-title="Romania",RO066:ANIMAL PLANET HD
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/RO/RO066ANIMALPLANETHD.png" group-title="Romania",RO066:ANIMAL PLANET HD
 http://a1xin.worldhell.club:8880/HE6M0002/dop7ywrk/31810
 #EXTINF:-1 tvg-id="" tvg-name="RO062:Antena 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/RO/RO062Antena1HD.png" group-title="Romania",RO062:Antena 1 HD
 http://a1xin.worldhell.club:8880/HE6M0002/dop7ywrk/31814
